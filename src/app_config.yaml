@@ -1,0 +1,4 @@
+data_access:
+  web:
+    path_driver: '..\input\chromedriver.exe'
+    url: 'https://solucoes.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao_CS.asp'
